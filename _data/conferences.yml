@@ -1,4 +1,55 @@
 ---
+
+- name: MobiCom 
+  description: ACM International Conference on Mobile Computing and Networking
+  year: 2022
+  link: https://www.sigmobile.org/mobicom/2022
+  deadline: "2022-03-25 23:59"
+  comment: Rank A*; Notification on June 10, 2022
+  date: December 2022
+  place: Sydney, Australia
+  tags: [SEC, MOBI]
+  
+- name: WiMob 
+  description: IEEE International Conference on Wireless and Mobile Computing, Networking and Communications
+  year: 2022
+  link: http://www.wimob.org/wimob2022/
+  deadline: "2022-05-26 23:59"
+  comment: Rank B; Notification on July 30, 2022
+  date: October 10 - 12, 2022
+  place: Thessaloniki, Greece
+  tags: [SEC, MOBI]
+    
+- name: IWCMC
+  description: International Wireless Communications and Mobile Computing Conference
+  year: 2022
+  link: https://iwcmc.org/2022/
+  deadline: "2022-02-14 23:59"
+  comment: Rank B; Notification on 30 March, 2022
+  date: May 30 - June 3, 2022
+  place: Dubrovnik, Croatia
+  tags: [SEC, MOBI]
+
+- name: IMC
+  description: Internet Measurement Conference
+  year: 2022
+  link: https://conferences.sigcomm.org/imc/2022/
+  deadline: "2022-05-26 23:59"
+  comment: Rank A; Date and Deadline roughly guessed from previous years
+  date: November 2-4, 2022
+  place: Unknown
+  tags: [SEC, MOBI]
+  
+- name: MobiSys
+  year: 2022
+  date: June 25 - July 1 2022
+  description: ACM International Conference on Mobile Systems, Applications, and Services
+  link: https://www.sigmobile.org/mobisys/2022/
+  deadline: "2021-12-20 23:59"
+  place: Portland, Oregon
+  comment: Rank B
+  tags: [PRIV, MOBI]
+
 # Security and Privacy
 - name: S&P (Oakland)
   year: 2022
