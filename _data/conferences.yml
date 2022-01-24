@@ -59,6 +59,46 @@
   place: Portland, Oregon
   comment: Rank B
   tags: [PRIV, MOBI]
+  
+- name: WoWMoM 
+  description: IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks
+  year: 2022
+  link: https://computing.ulster.ac.uk/WoWMoM2022/index.html
+  deadline: "2022-01-15 23:59"
+  comment: Rank B; Notification on February 20, 2022
+  date: Jun 14 - 17, 2022 
+  place: Belfast, UK
+  tags: [MOBI]
+ 
+ - name: MobiQuitous 
+  description: International Conference on Mobile and Ubiquitous Systems: Networks and Services
+  year: 2021
+  link: https://mobiquitous.eai-conferences.org/2021/
+  deadline: "2021-07-20 23:59"
+  comment: Rank B; Notification on September 20, 2021
+  date: November 8 - 11, 2021
+  place: Beppu, Japan
+  tags: [MOBI]
+  
+- name: MDM 
+  description: International Conference on Mobile Data Management
+  year: 2022
+  link: https://mdm2022.cs.ucy.ac.cy/
+  deadline: "2022-02-04 23:59"
+  comment: Rank B; Notification on March 18, 2022
+  date: June 6 - 9, 2022
+  place: Paphos, Cyprus
+  tags: [MOBI]
+
+- name: WCNC 
+  description: IEEE Wireless Communications and Networking Conference
+  year: 2022
+  link: https://wcnc2022.ieee-wcnc.org/
+  deadline: "2021-09-15 23:59"
+  comment: Rank B; Notification on December 1, 2021
+  date: April 10 - 13, 2022
+  place: Austin, Texas
+  tags: [MOBI]
 
 # Security and Privacy
 - name: S&P (Oakland)
@@ -148,7 +188,7 @@
   deadline: 
     - "2022-01-31 23:59"
     - "2022-05-22 23:59"
-  comment: Title and abstract deadline on Jan 25 / May 22
+  comment: Rank A; Title and abstract deadline on Jan 25 / May 22
   date: September 26-30
   place: Copenhagen, Denmark
   tags: [SEC, PRIV]
@@ -181,6 +221,7 @@
   year: 2022
   link: https://wisec2022.cs.utsa.edu/
   deadline: "2022-02-02 23:59"
+  comment: Rank ???
   date: May 16 - May 19
   place: San Antonio, Texas, USA
   tags: [SEC, PRIV]
