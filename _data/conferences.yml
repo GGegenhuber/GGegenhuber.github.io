@@ -99,6 +99,36 @@
   date: April 10 - 13, 2022
   place: Austin, Texas
   tags: [MOBI]
+  
+ - name: INFOCOM 
+  description: IEEE International Conference on Computer Communications
+  year: 2022
+  link: https://wcnc2022.ieee-wcnc.org/
+  deadline: "2021-10-15 23:59"
+  comment: Rank A*
+  date: April 10 - 13, 2022 
+  place: Austin, Texas, USA
+  tags: [MOBI]
+ 
+- name: PERCOM 
+  description: IEEE International Conference on Pervasive Computing and Communications
+  year: 2022
+  link: https://www.percom.org/
+  deadline: "2021-10-14 23:59"
+  comment: Rank A*, Notification on December 22, 2021
+  date: March 21 - 25, 2022 
+  place: Pisa, Italy
+  tags: [MOBI]
+ 
+ - name: SIGCOMM 
+  description: ACM Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication
+  year: 2022
+  link: https://conferences.sigcomm.org/sigcomm/2022/
+  deadline: "2022-02-02 23:59"
+  comment: Rank A*, Notification on May 7, 2022
+  date: August 22 - 26, 2022 
+  place: Amsterdam, Netherlands
+  tags: [MOBI]
 
 # Security and Privacy
 - name: S&P (Oakland)
