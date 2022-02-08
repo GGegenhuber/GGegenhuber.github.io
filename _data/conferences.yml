@@ -84,7 +84,7 @@
   description: International Conference on Mobile Data Management
   year: 2022
   link: https://mdm2022.cs.ucy.ac.cy/
-  deadline: "2022-02-04 23:59"
+  deadline: ["2022-02-04 23:59"]
   comment: Rank B; Notification on March 18, 2022
   date: "June 6 - 9, 2022"
   place: Paphos, Cyprus
