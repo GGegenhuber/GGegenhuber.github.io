@@ -249,7 +249,7 @@
   deadline: ["2022-02-12 23:59"]
   date: May 16 - May 19
   place: San Antonio, Texas, USA
-  tags: [SEC, PRIV]
+  tags: [SEC, PRIV, MOBI]
 
 - name: SOUPS
   description: Usenix Symposium on Usable Security and Privacy
