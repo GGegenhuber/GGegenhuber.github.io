@@ -39,13 +39,13 @@
   date: "December 4 – 8, 2022"
   place: Rio de Janeiro, Brazil
   tags: [MOBI]
-
+May 18
 - name: IMC
   description: Internet Measurement Conference
   year: 2022
   link: https://conferences.sigcomm.org/imc/2022/
-  deadline: ["2022-05-26 23:59"]
-  comment: Rank A; Deadline roughly guessed from previous years
+  deadline: ["2022-05-18 23:59"]
+  comment: Rank A; Notification on August 19, 2022
   date: "October 25 - 27, 2022"
   place: Nice, France
   tags: [SEC, MOBI]
