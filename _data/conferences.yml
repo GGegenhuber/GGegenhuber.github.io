@@ -289,6 +289,16 @@
   place: Genoa, Italy
   tags: [SEC, PRIV, CRYPTO]
 
+- name: SEED
+  description: IEEE International Symposium on Secure and Private Execution Environment Design
+  year: 2022
+  link: https://seed22.engr.uconn.edu/
+  deadline: ["2022-05-27 23:59"]
+  comment: Title and abstract deadline on May 20
+  date: September 26-27
+  place: Online Event
+  tags: [SEC, PRIV]
+  
 # Privacy
 
 - name: WPES
@@ -424,11 +434,11 @@
 
 - name: RAID
   description: International Symposium on Research in Attacks, Intrusions and Defenses
-  year: 2021
-  link: https://www.raid2021.org
-  deadline: ["2021-03-26 23:59"]
-  date: October 6-8
-  place: Donostia/San Sebastian, Spain
+  year: 2022
+  link: https://raid2022.cs.ucy.ac.cy/index.html
+  deadline: ["2022-03-31 23:59"]
+  date: October 26-28
+  place: Limassol, Cyprus
   tags: SEC
 
 - name: ACSAC
@@ -539,3 +549,23 @@
   date: June 20-23
   place: Rome, Italy
   tags: [SEC, PRIV]
+
+- name: SECPID
+  description: Workshop on Security, Privacy, and Identity Management in the Cloud
+  year: 2022
+  link: https://www.ares-conference.eu/secpid-2022/
+  deadline: ["2022-04-20 23:59"]
+  timezone: Etc/UTC
+  date: August 23-26
+  place: Vienna, Austria
+  tags: [SEC, PRIV, CRYPTO]
+  
+- name: SciSec 
+  description: International Conference on Science of Cyber Security
+  year: 2022
+  link: https://scisec.org/
+  deadline: ["2022-04-25 23:59"]
+  date: August 10-12  
+  place: Matsue city, Japan
+  tags: [SEC]
+  
