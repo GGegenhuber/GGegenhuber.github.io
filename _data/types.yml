@@ -7,3 +7,5 @@
   tag: CRYPTO
 - name: Mobile
   tag: MOBI
+ - name: Network
+  tag: NET
