@@ -19,7 +19,7 @@
   comment: Rank A*; Notification on June 10, 2022
   date: "October 17 - 21, 2022"
   place: Sydney, Australia
-  tags: [SEC, MOBI]
+  tags: [SEC, MOBI, NET]
 
 - name: WiMob 
   description: IEEE International Conference on Wireless and Mobile Computing, Networking and Communications
@@ -29,7 +29,7 @@
   comment: Rank B; Notification on July 30, 2022
   date: "October 10 - 12, 2022"
   place: Thessaloniki, Greece
-  tags: [SEC, MOBI]
+  tags: [SEC, MOBI, NET]
 
 - name: IWCMC
   description: International Wireless Communications and Mobile Computing Conference
@@ -59,7 +59,7 @@
   comment: Rank A; Notification on August 19, 2022
   date: "October 25 - 27, 2022"
   place: Nice, France
-  tags: [SEC, MOBI]
+  tags: [SEC, MOBI, NET]
 
 - name: MobiSys
   year: 2022
