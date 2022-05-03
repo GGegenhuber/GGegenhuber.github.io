@@ -209,12 +209,12 @@
 
 - name: NDSS
   description: ISOC Network and Distributed System Security Symposium
-  year: 2022
-  link: https://www.ndss-symposium.org/ndss2022/
+  year: 2023
+  link: https://www.ndss-symposium.org/ndss2023-call-for-papers/
   deadline:
-    - "2021-05-21 23:59"
-    - "2021-07-23 23:59"
-  date: "February 27 - March 3"
+    - "2022-05-13 23:59"
+    - "2022-07-29 23:59"
+  date: "To be confirmed"
   place: San Diego, CA, USA
   tags: SEC
 
@@ -232,25 +232,25 @@
   
 - name: CSF
   description: IEEE Computer Security Foundations Symposium
-  year: 2022
-  link: https://www.ieee-security.org/TC/CSF2022
+  year: 2023
+  link: https://www.ieee-security.org/TC/CSF2023/
   deadline:
-    - "2021-05-14 23:59"
-    - "2021-10-01 23:59"
-    - "2022-02-04 23:59"
-  date: August 2022
-  place: Haifa, Israel
+    - "2022-05-13 23:59"
+    - "2022-09-30 23:59"
+    - "2023-02-03 23:59"
+  date: TBA
+  place: Dubrovnik, Croatia
   tags: [SEC, PRIV]
     
 - name: CANS
   description: International Conference on Cryptology and Network Security
-  year: 2021
-  link: https://cans2021.at/call-for-papers/
-  deadline: ["2021-06-17 23:59"]
+  year: 2022
+  link: https://www.cans2022.com/
+  deadline: ["2022-05-29 23:59"]
   timezone: Etc/UTC
-  date: December 13-15
-  place: Vienna, Austria
-  tags: [SEC, PRIV, CRYPTO]
+  date: November 13-16
+  place: Abu Dhabi, UAE
+  tags: [SEC, CRYPTO]
 
 - name: WiSec
   description: ACM Conference on Security and Privacy in Wireless and Mobile Networks
@@ -372,12 +372,12 @@
 
 - name: Asiacrypt
   description: International Conference on the Theory and Application of Cryptology and Information Security
-  year: 2019
-  link: https://asiacrypt.iacr.org/2019
-  deadline: ["2019-05-14 05:00"]
+  year: 2022
+  link: https://asiacrypt.iacr.org/2022/
+  deadline: ["2022-05-27 11:59"]
   timezone: Etc/UTC
-  date: December 8-12
-  place: Kobe, Japan
+  date: December 5-9
+  place: Taipei, Taiwan
   tags: CRYPTO
   
 - name: AFT
@@ -447,17 +447,17 @@
   description: International Symposium on Research in Attacks, Intrusions and Defenses
   year: 2022
   link: https://raid2022.cs.ucy.ac.cy/index.html
-  deadline: ["2022-03-31 23:59"]
+  deadline: ["2022-04-07 23:59"]
   date: October 26-28
   place: Limassol, Cyprus
   tags: SEC
 
 - name: ACSAC
   description: Annual Computer Security Applications Conference
-  year: 2021
-  link: https://www.acsac.org/2021/
-  deadline: ["2021-06-23 23:59"]
-  date: Dec 6-10
+  year: 2022
+  link: https://www.acsac.org/2022/
+  deadline: ["2022-06-29 23:59"]
+  date: Dec 5-9
   place: Austin, TX, USA
   tags: [SEC]
 
@@ -495,11 +495,11 @@
 # Others, less frequently updated
 
 - name: SecDev
-  year: 2020
+  year: 2022
   description: IEEE Secure Development Conference
-  link: https://secdev.ieee.org/
-  deadline: ["2020-05-25 23:59"]
-  date: "September 18-30"
+  link: https://secdev.ieee.org/2022/home/
+  deadline: ["2022-06-03 23:59"]
+  date: "October 18-20"
   place: Atlanta, GA, USA
   tags: [SEC, PRIV]
 
@@ -525,11 +525,11 @@
 
 - name: IEEE DAPPS
   description: IEEE International Conference on Decentralized Applications and Infrastructures
-  year: 2021
+  year: 2022
   link: https://ieeedapps.net/
-  deadline: ["2021-04-27 23:59"]
-  date: August 23-26
-  place: Online Event
+  deadline: ["2022-05-08 23:59"]
+  date: August 15-18
+  place: San Francisco, CA, USA
   tags: [SEC, PRIV]
   
 - name: IEEE S&B
@@ -578,5 +578,15 @@
   deadline: ["2022-04-25 23:59"]
   date: August 10-12  
   place: Matsue city, Japan
+  tags: [SEC]
+  
+- name: AsianHOST
+  description: Asian Hardware Oriented Security and Trust Symposium
+  year: 2022
+  link: http://asianhost.org/2022
+  deadline: ["2022-07-25 23:59"]
+  date: December 15-17 
+  timezone: Asia/Shanghai
+  place: Singapore
   tags: [SEC]
   
